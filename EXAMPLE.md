@@ -20,7 +20,7 @@
   ## Tests
   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat eum fugiat nemo ad et enim sint tempora vero itaque! Culpa placeat consequatur doloremque? Illum, doloribus tempore dignissimos iure alias hic. Magnam quidem ratione ullam molestias magni, sapiente consequatur iste dicta veritatis optio numquam illum nobis, officiis aliquam. Ea, eum illum?
   ## Questions 
-  [Link to my GitHub Profile](https://drive.google.com/file/d/1d5gGRlf5CPjZzed6FSmx-05mg_LeJhvX/view?usp=sharing)
+  [Link to my GitHub Profile](https://github.com/VASUK-09)
   
   For any additional questions, you can email me at: 
   
